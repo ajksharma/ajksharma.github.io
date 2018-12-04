@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Blog is up!
-tags : IAC, SRE, Monitoring
+tags : iac sre monitoring
 ---
 
 This is a blog where I would share my learning path on 
